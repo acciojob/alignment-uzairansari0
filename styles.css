@@ -23,12 +23,12 @@
         align-items: center;
         margin-top: 10px;
       }
-      .table-view {
+      table {
         border: 1px solid black;
       }
       td {
         border: 1px solid black;
-        padding: 0 2px;
+        padding: 1px;
       }
       .center {
         text-align: center;
